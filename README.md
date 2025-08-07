@@ -17,3 +17,8 @@ Os exercícios estão divididos em seções em que você vai criar:
 O app final vai ficar assim:
 
 <img width="600" height="1271" alt="image" src="https://github.com/user-attachments/assets/363b899b-5878-4c31-9dfc-6a0fd70786f6" />
+
+## FINAL RESULT
+
+https://github.com/user-attachments/assets/e8a4991d-bcac-4763-9cdd-1a06078db1ec
+
